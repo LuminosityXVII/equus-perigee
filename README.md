@@ -2,7 +2,7 @@
 
 ![watch face preview](preview.png)
 
-A watch face for the Pebble Time Round, for people who think celestial horse monarchs are pretty neat.
+A watch face for the Pebble Time Round, for people who think celestial horse diarchs are pretty neat.
 
 ### Installation:
 
