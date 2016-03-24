@@ -1,0 +1,314 @@
+{
+    "appKeys": {
+        "dummy": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Pebble",
+    "enableMultiJS": false,
+    "longName": "pdc-image",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/CE94.png",
+                "name": "CE94",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE92.png",
+                "name": "CE92",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE90.png",
+                "name": "CE90",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE88.png",
+                "name": "CE88",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE86.png",
+                "name": "CE86",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE84.png",
+                "name": "CE84",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE82.png",
+                "name": "CE82",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE80.png",
+                "name": "CE80",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE78.png",
+                "name": "CE78",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE76.png",
+                "name": "CE76",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE74.png",
+                "name": "CE74",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE72.png",
+                "name": "CE72",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE70.png",
+                "name": "CE70",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE68.png",
+                "name": "CE68",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE66.png",
+                "name": "CE66",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE64.png",
+                "name": "CE64",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE62.png",
+                "name": "CE62",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE60.png",
+                "name": "CE60",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE58.png",
+                "name": "CE58",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE56.png",
+                "name": "CE56",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE54.png",
+                "name": "CE54",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE52.png",
+                "name": "CE52",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE50.png",
+                "name": "CE50",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE48.png",
+                "name": "CE48",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE46.png",
+                "name": "CE46",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE44.png",
+                "name": "CE44",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE42.png",
+                "name": "CE42",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE40.png",
+                "name": "CE40",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE38.png",
+                "name": "CE38",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE36.png",
+                "name": "CE36",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE34.png",
+                "name": "CE34",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE32.png",
+                "name": "CE32",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE30.png",
+                "name": "CE30",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE28.png",
+                "name": "CE28",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE26.png",
+                "name": "CE26",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE24.png",
+                "name": "CE24",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE22.png",
+                "name": "CE22",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE20.png",
+                "name": "CE20",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE18.png",
+                "name": "CE18",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE16.png",
+                "name": "CE16",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE14.png",
+                "name": "CE14",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE12.png",
+                "name": "CE12",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE10.png",
+                "name": "CE10",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE8.png",
+                "name": "CE8",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE6.png",
+                "name": "CE6",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE4.png",
+                "name": "CE4",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE2.png",
+                "name": "CE2",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/CE0.png",
+                "name": "CE0",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "pdc-image",
+    "targetPlatforms": [
+        "chalk"
+    ],
+    "uuid": "595AEAF8-2580-4897-95E9-62FD07EAA2FE",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
